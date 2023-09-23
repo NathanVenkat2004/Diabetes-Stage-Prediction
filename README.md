@@ -40,10 +40,6 @@ With type 2 diabetes, your body doesn’t use insulin well and can’t keep bloo
 
 This project is for the Diabetes suffering persons😷
 
-I used the python packages to implement it.
-I used to represent data in Heatmap and to find the accuracy value of the Diabetes satge
-
-
 This projects Helps in Medical Field. 
 
 
